@@ -1,0 +1,121 @@
+# Translation of Plugins - Header and Footer Scripts - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Header and Footer Scripts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-26 21:12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Header and Footer Scripts - Stable (latest release)\n"
+
+#: inc/options.php:32
+msgid "The following script, if any, will be inserted before &lt;/body&gt; tag using wp_footer hook."
+msgstr "El siguiente script, si hay alguno, será insertado antes de la etiqueta &lt;/body&gt; usando el gancho `wp_footer`."
+
+#: inc/options.php:29 inc/options.php:36
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/options.php:28 inc/options.php:35
+msgid "Priority"
+msgstr "Prioridad"
+
+#: inc/options.php:25
+msgid "The following script, if any, will be inserted into the &lt;head&gt; section using wp_head hook."
+msgstr "El siguiente script, si hay alguno, será insertado en la sección &lt;head&gt; usando el gancho `wp_head`."
+
+#: inc/meta.php:13
+msgid "The script in the following textbox will be inserted to the &lt;head&gt; section"
+msgstr "El script del siguiente cuadro de texto será insertado en la sección &lt;head&gt;"
+
+#. Description of the plugin
+msgid "Essential WordPress plugin for almost every website to insert codes like Javascript and CSS. Inserting script to your wp_head and wp_footer made easy."
+msgstr "Un plugin esencial para WordPress, para casi todas las webs, para insertar códigos como JavaScript y CSS. Es fácil insertar scripts en tu `wp_head` y `wp_footer`."
+
+#: shfs.php:63
+msgid "Insert Script to &lt;head&gt;"
+msgstr "Insertar script en &lt;head&gt;"
+
+#: inc/sidebar.php:41
+msgid "Join Digital Liberation"
+msgstr "Únete a Digital Liberation"
+
+#: inc/sidebar.php:40
+msgid "We are small WordPress community who welcomes you to join us. Here you will find and share more plugins and themes or even ideas. Ideas are not limited to WordPress. It could be vague or liberal. This is why we are \"Digital Liberation .ORG"
+msgstr "Somos una pequeña comunidad WordPress que te da la bienvenida a unirte a nosotros. Aquí encontrarás y compartirás más plugins y temas o incluso ideas. Las ideas no están limitadas a WordPress. Podrían ser algo vago e incluso liberal. Es por eso que somos «Digital Liberation .ORG»"
+
+#: inc/sidebar.php:38
+msgid "Join Our Community"
+msgstr "Únete a nuestra comunidad"
+
+#: inc/sidebar.php:32
+msgid "Find this plugin useful rate it 5 stars and leave a nice little comment at wordpress.org. I would really appreciate that."
+msgstr "Si encuentras útil este plugin valóralo con 5 estrellas y deja un pequeño buen comentario en WordPress.org. Realmente apreciaríamos eso. "
+
+#: inc/sidebar.php:30 inc/sidebar.php:33
+msgid "Rate 5 Stars"
+msgstr "Valóralo con 5 estrellas"
+
+#: inc/sidebar.php:25
+msgid "Contribute"
+msgstr "Contribuir"
+
+#: inc/sidebar.php:24
+msgid "Help us to make this plugin even better. Contributions not necessarily be monetary. Please follow the link to know more and contribute."
+msgstr "Ayúdanos a hacer este plugin aún mejor. Las contribuciones no tienen necesariamente que ser monetarias. Por favor, sigue el enlace para saber más y contribuir."
+
+#: inc/sidebar.php:22
+msgid "Contribute or Donate!"
+msgstr "¡Contribuye o dona!"
+
+#: inc/sidebar.php:17
+msgid "Explore Docs and Support"
+msgstr "Explora la documentación y el soporte"
+
+#: inc/sidebar.php:16
+msgid "Read plugin documentation for clarification or how to use it. OR just ask your query."
+msgstr "Lee la documentación del plugin para aclarar dudas o saber cómo usarlo. O simplemente para hacer tu consulta."
+
+#: inc/sidebar.php:14
+msgid "Need Help?"
+msgstr "¿Necesitas ayuda?"
+
+#: inc/options.php:39
+msgid "Save settings"
+msgstr "Guardar ajustes"
+
+#: inc/options.php:31
+msgid "Scripts in footer:"
+msgstr "Scripts en el pie de página:"
+
+#: inc/options.php:24
+msgid "Scripts in header:"
+msgstr "Scripts en la cabecera:"
+
+#: inc/options.php:12
+msgid "Read Tutorial"
+msgstr "Lee el tutorial"
+
+#: inc/options.php:12
+msgid "Header and Footer Scripts - Options"
+msgstr "Scripts en cabecera y pie de página - Opciones"
+
+#. Author URI of the plugin
+msgid "http://digitalliberation.org/?utm_source=wphfs_author_uri"
+msgstr "http://digitalliberation.org/?utm_source=wphfs_author_uri"
+
+#. Author of the plugin
+msgid "Digital Liberation"
+msgstr "Digital Liberation"
+
+#. Plugin URI of the plugin
+msgid "http://digitalliberation.org/plugins/header-and-footer-scripts/?utm_source=wphfs_plugin_uri"
+msgstr "http://digitalliberation.org/plugins/header-and-footer-scripts/?utm_source=wphfs_plugin_uri"
+
+#. Plugin Name of the plugin
+#: shfs.php:71
+msgid "Header and Footer Scripts"
+msgstr "Header and Footer Scripts"
