@@ -2,7 +2,7 @@
 
 Landing de una aplicación PWA.
 
-<!-- **DEMO** &#x279c; [https://legalchain-demo.netlify.app/](https://legalchain-demo.netlify.app/) -->
+**DEMO** &#x279c; [https://legalchain-demo.netlify.app/](https://legalchain-demo.netlify.app/)
 
 ## Preparar Entorno
 
